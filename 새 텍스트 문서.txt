@@ -1,1 +1,81 @@
-Tlqkf
+<!--  꼬리말 -->
+    <div id="page">
+      <!-- <div id="chat">
+        <img src="./img/챗봇이미지.png" alt="챗봇" id="chat-bot" />
+        <p>무료상담!</p>
+      </div> -->
+      <footer class="clear">
+        <div id="footer">
+          <section id="left-box">
+            <h3 id="txt">여행지 문의하기</h3>
+            <p class="a">
+              가시고 싶은 여행지를 예약하시기 전에 궁금한 사항이 있는 분들은
+              문의해주세요.
+            </p>
+            <ul id="information">
+              <li>
+                
+                <p>위치 : <span>부산광역시 진구 11번길 11</span></p>
+              </li>
+              <li>
+                
+                <p>번호 : <span>T 051-111-1111 F 02-1111-1111</span></p>
+              </li>
+              <li>
+                
+                <p>이메일 : <span>abcd1234 @ naver.com</span> </p>
+              </li>
+            </ul>
+            <div id="container">
+              <div id="ne">
+                <input type="text" id="name" placeholder="Name" />
+                <input type="text" id="email" placeholder="E-mail" />
+              </div>
+              
+              <div id="message-box">
+                <textarea name="message" id="message"placeholder="문의 사항을 적어주세요"></textarea
+                >
+                
+              </div>
+              <div id="send-box"><button id="send">보내기</button></div>
+            </div>
+          </section>
+
+          <section id="right-box">
+            <div id="nav">
+              <ul id="menu">
+                <li><a href="#">고객센터</a></li>
+                <li><a href="#">해외여행자보험</a></li>
+                <li><a href="#">마케팅제휴</a></li>
+                <li><a href="#">개인정보처리방침</a></li>
+              </ul>
+            </div>
+            <div id="pay">
+              <h3 id="txt2">결제방법</h3>
+              <ul id="pay-pic">
+                <li><img src="./img/페이.png" alt="" /></li>
+                <li><img src="./img/비자 로고.jpg" alt="" /></li>
+                <li><img src="./img/페이코 로고.png" alt="" /></li>
+                <li><img src="./img/카페 로고.jpg" alt="" /></li>
+                <li><img src="./img/신한은행 로고.jpg" alt="" /></li>
+              </ul>
+            </div>
+            <div id="end">
+              <p>
+                Copyright © 2025 OO.com Travel Singapore Pte. Ltd. All rights
+                reserved. <br />
+                사이트 운영자: Trip.com Travel Singapore Pte. Ltd. (라이선스
+                번호 111111, 대표 OOOO) <br />
+                Unit No. #29-11, 30 Raffles Place, Singapore 048622 <br />
+                고객센터: 한국 1111-1111  해외 +82 2 1111 8777 <br />
+                OO여행사는는 통신판매중개자이며, 통신판매의 당사자가 아닙니다.
+                상품의 예약, 이용 및 환불 등과 관련한 의무와 책임은 각
+                판매자에게 있습니다.
+              </p>
+            </div>
+          </section>
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>
